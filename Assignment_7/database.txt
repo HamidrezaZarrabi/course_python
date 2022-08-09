@@ -1,0 +1,6 @@
+this,in
+is,hast
+python,python
+course,doreh
+apple,sib
+peach,holo
