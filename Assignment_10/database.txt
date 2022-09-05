@@ -1,0 +1,3 @@
+1,Film,ColdWar,pawelpawlikowsk,7.5,https://www.youtube.com/watch?v=8ImvkXgGVWw,90,['Joanna-Kulig', 'Tomasz-Kot']
+2,Series,TheBigBangTheory,MarkCendrowski,8.2,https://www.youtube.com/watch?v=ozdmU2g_ui4,20,12,24,['Kaley', 'Cuoco-Jim', 'Parsons']
+3,Documentary,TheSocialDelimma,JeffOrlowski,7.6,https://www.youtube.com/watch?v=rvg0eY_Ls4Y,94,['Skyler', 'Gisondo-Jaron', 'Lanier']
